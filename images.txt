@@ -5,3 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 jgraph/drawio
+zhl2008/web_14.04
